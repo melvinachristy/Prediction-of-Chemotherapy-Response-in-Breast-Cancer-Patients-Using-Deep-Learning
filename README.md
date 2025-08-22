@@ -48,7 +48,7 @@ This project develops a **deep learning model** to predict **chemotherapy respon
 - 
 ## Installation & Setup
 
-You don’t need a heavy local setup — this project can be run directly in **Google Colab**.
+You don’t need a heavy local setup - this project can be run directly in **Google Colab**.
 
 1. **Open the Colab Notebook**:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C3rQD57IJuZ9YpN0O7CXxqxUS-iUW_Xu?usp=sharing)
