@@ -46,8 +46,45 @@ This project develops a **deep learning model** to predict **chemotherapy respon
 - Enhance **real-time inference** using lightweight models (MobileNet/EfficientNet).  
 - Adopt **Federated Learning** for secure, privacy-preserving training.
 - 
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<melvinachristy>/Prediction-of-Chemotherapy-Response-in-Breast-Cancer-Patients-Using-Deep-Learning.git
-   cd Prediction-of-Chemotherapy-Response-in-Breast-Cancer-Patients-Using-Deep-Learning
+## Installation & Setup
+
+You don’t need a heavy local setup — this project can be run directly in **Google Colab**.
+
+1. **Open the Colab Notebook**:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C3rQD57IJuZ9YpN0O7CXxqxUS-iUW_Xu?usp=sharing)
+
+2. Once opened, connect to a runtime (`Runtime > Change runtime type > GPU` for faster training).
+
+3. Run all cells in order (`Runtime > Run all`) to:
+   - Preprocess datasets  
+   - Train deep learning models (VGG16, ResNet50, DenseNet121, InceptionResNetV2)  
+   - Evaluate results with metrics (Accuracy, Precision, Recall, F1-score, AUC)  
+   - Visualize predictions (ROC curves, Grad-CAM heatmaps)  
+
+## Usage (Colab)
+
+- Simply open the notebook above and execute the code blocks step by step.  
+- No local installation required.  
+- For reproducibility, you can save a copy of the notebook to your Google Drive (`File > Save a copy in Drive`).  
+
+## Contribution
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch (git checkout -b feature-branch)
+3. Make your changes
+4. Commit your changes (git commit -am 'Add new feature')
+5. Push to the branch (git push origin feature-branch)
+6. Create a new Pull Request
+
+## Contact
+For any questions or feedback, please contact:
+
+Melvina Christy N
+
+Email: melvina.christy@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/melvinachristy21
+
+## Acknowledgements
+Thanks to [Karunya University] for academic support.
