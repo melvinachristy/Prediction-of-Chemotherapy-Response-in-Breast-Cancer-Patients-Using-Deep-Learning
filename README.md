@@ -2,8 +2,6 @@
 **Timeline:** Dec 2024 – May 2025  
 **Institution:** Karunya University  
 
-Deep learning model to predict chemotherapy response in breast cancer patients using clinical and imaging data. Focused on treatment efficacy, biomarker discovery, and advancing precision medicine.
-
 ## Overview
 This project develops a **deep learning model** to predict **chemotherapy response in breast cancer patients** using **clinical and imaging data**. The goal is to support **personalized treatment strategies** and **precision medicine** by identifying responders vs. non-responders early, improving therapy effectiveness, and minimizing unnecessary side effects.  
 
@@ -51,5 +49,5 @@ This project develops a **deep learning model** to predict **chemotherapy respon
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Prediction-of-Chemotherapy-Response-in-Breast-Cancer-Patients-Using-Deep-Learning.git
+   git clone https://github.com/<melvinachristy>/Prediction-of-Chemotherapy-Response-in-Breast-Cancer-Patients-Using-Deep-Learning.git
    cd Prediction-of-Chemotherapy-Response-in-Breast-Cancer-Patients-Using-Deep-Learning
